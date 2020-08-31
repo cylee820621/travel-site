@@ -1,1 +1,1 @@
-alert("new york");
+import "../styles/styles.css";
